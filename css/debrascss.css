@@ -1,0 +1,47 @@
+body {
+background-color:#0F181C;
+} 
+
+h2{
+	color:#6E8D9C;
+	font-size:50px;
+
+}
+
+p{
+	color:#CADDE6;
+}
+
+#quote{
+	color:#6E8D9C;
+	font-size:1.5rem; 
+}
+
+header.intro {
+	background: url('../img/background.png') bottom center no-repeat #000;
+	background-size: 100%
+}
+
+.mycolor {color:#ffffff;
+}
+
+#textbox{
+	width:300px
+	border:25px solid green;
+	padding: 25px;
+	margin:25px;
+}
+
+.social-hierarchy-sep {
+	border-bottom: 3px solid #6E8D9C;
+	margin-bottom: 25px;
+}
+
+.content-section {
+	padding-top:50px;
+}
+
+.slick-arrow {
+	transform: scale(2.0);
+}
+ <div><p id="quote">"{color:#6E8D9C;}
